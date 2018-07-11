@@ -1,0 +1,38 @@
+body {
+	padding-top: 70px;
+}
+footer {
+	background-color: #EEE;
+	border-top: 10px solid #BBB;
+	font-size: 14px;
+	padding: 20px;
+	text-align: center;
+}
+.box-principal{
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+.titulo{
+	text-align: center;
+}
+.imagen-avatar{
+	height: 50px;
+	width: 50px;
+}
+.panel-heading{
+	height: 40px;
+	line-height: 18px;
+}
+.panel-heading a{
+	font-size: 30px;
+	text-decoration: none;
+}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  vertical-align: middle;
+}
